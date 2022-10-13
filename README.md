@@ -4,7 +4,8 @@
 
 Laravel 9 pepustakaan dikembangkan oleh :
 
-- Github : <a href="https://github.com/TeddyFirman"> Tedd404 </a>
+- PLP UNESA PTI'19
+- ASMEN UTM PIF'19
 
 ## Fitur 
 
@@ -116,4 +117,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2022 TeddyFirman.
+- Copyright © 2022 SiPerpus SMKSG.
