@@ -2,7 +2,7 @@
 
 ## Author
 
-Laravel 9 pepustakaan dikembangkan oleh :
+Laravel 9 perpustakaan dikembangkan oleh :
 
 - PLP UNESA PTI'19
 - ASMEN UTM PIF'19
@@ -28,7 +28,7 @@ Laravel 9 pepustakaan dikembangkan oleh :
 - email: admin@gmail.com
 - Password: 123123123
 
-**Petuags**
+**Petugas**
 
 - email: petugas@gmail.com
 - Password: 123123123
@@ -43,7 +43,7 @@ Laravel 9 pepustakaan dikembangkan oleh :
 **Clone Repository**
 
 ```bash
-git clone https://github.com/TeddyFirman/First-Laravel-Project-84.git
+git clone https://github.com/nuruldwiapriliya/perpustakaan-SMKSG.git
 ```
 
 **Download zip**
